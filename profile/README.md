@@ -95,6 +95,6 @@ Some of our projects may build upon existing open-source software while respecti
 
 <div align="center">
 
-Made with 💚 by **h-labs**
+Made with 💚 by **h-labs™**
 
 </div>
